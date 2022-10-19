@@ -1,0 +1,14 @@
+header{
+    color: $white1;
+    position: relative;
+    min-height: 100vh;
+
+    .header-content{
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
