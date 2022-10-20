@@ -12,7 +12,7 @@ $font2: Merriweather, arial;
 $black1: rgb(17,17,17);
 $white1: rgb(243,243,243);
 $grey1: rgb(209,209,209);
-$grey2: rgb(203,203,203);
+$grey2: rgb(233,233,233);
 $grey3: rgb(105,105,105);
 
 @mixin title {
@@ -44,7 +44,7 @@ body{
         top: 0px;
         left: 0px;
         background: $black1;
-        animation: animBefore 1.5s ease forwards;
+        animation: animBefore 1.5s ease forwardS;
         animation-delay: 0.15s;
         
 
